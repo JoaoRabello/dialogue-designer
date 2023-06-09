@@ -1,0 +1,14 @@
+{
+  "displayName": "Dialogue Designer",
+  "name": "com.cottoncatstudios.dialogue-designer",
+  "version": "0.1.0",
+  "dependencies": {
+    
+  },
+  "unity": "2021.3",
+  "description": "Design you own dialogues inside Unity",
+  "repository": {
+    "url": "https://github.com/JoaoRabello/dialogue-designer.git",
+    "type": "git"
+  }
+}
