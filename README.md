@@ -1,2 +1,0 @@
-# dialogue-designer
-Dialogue Designer
